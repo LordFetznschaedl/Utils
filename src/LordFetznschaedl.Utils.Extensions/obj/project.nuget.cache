@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q7tFiKBrgB76e7ccjmYckCaMvrVGNGfLi53lw3mVCeyIVBN8TMrQuwaPjxUoBD4M+qTA1Ett4wEzLq3DExXBDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\LordFetznschaedl\\Utils\\src\\LordFetznschaedl.Utils.Extensions\\LordFetznschaedl.Utils.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robert\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

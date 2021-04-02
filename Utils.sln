@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D3911BDE-8434-4F9E-AE31-29737F5FC234}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{D8C90E6F-5C4B-4092-938C-D3EA6449A4E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{71161498-FC55-431E-90BA-EE0E64F22A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LordFetznschaedl.Utils.Extensions", "src\LordFetznschaedl.Utils.Extensions\LordFetznschaedl.Utils.Extensions.csproj", "{8A54FE2D-723F-46FF-9F5E-E621526CA643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A54FE2D-723F-46FF-9F5E-E621526CA643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A54FE2D-723F-46FF-9F5E-E621526CA643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A54FE2D-723F-46FF-9F5E-E621526CA643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A54FE2D-723F-46FF-9F5E-E621526CA643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8A54FE2D-723F-46FF-9F5E-E621526CA643} = {D3911BDE-8434-4F9E-AE31-29737F5FC234}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {517164DD-72C1-44B2-BD1C-C40D724410C3}
+	EndGlobalSection
+EndGlobal
