@@ -18,11 +18,6 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
-    - name: Bump versions
-      uses: SiqiLu/dotnet-bump-version@master
-      with:
-        version_files: "**/*.csproj"
-        github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Publish LordFetznschaedl.Utils.Extensions
       uses: brandedoutcast/publish-nuget@v2.5.2
       with:
